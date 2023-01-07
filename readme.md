@@ -26,7 +26,7 @@ ReadMe
 
 - Install SQLiteStudio: <https://sqlitestudio.pl/>
 - Download a sample database for testing here:
-  [download](\assets\chinook.db)
+  [download](assets/chinook.db)
 - Open SQLiteStudio, and try if you can input the sample database:
   1.  Click Database (top left) \> Add a database
 
