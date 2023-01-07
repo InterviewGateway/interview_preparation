@@ -5,5 +5,18 @@ output:
     toc: true
 ---
 
-## Software requirements
-- 
+## Software requirements beforehand
+- R
+- RStudio
+- SQLiteStudio
+- Excel
+- Word
+
+## R and RStudio
+- Install R from here: https://cran.r-project.org/mirrors.html
+- Install RStudio from here: https://posit.co/download/rstudio-desktop/
+- Install these packages: tidyverse, lubridate
+
+## SQLiteStudio
+- Install SQLiteStudio: https://sqlitestudio.pl/
+
