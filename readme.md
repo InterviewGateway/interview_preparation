@@ -6,6 +6,7 @@ ReadMe
   beforehand</a>
 - <a href="#r-and-rstudio" id="toc-r-and-rstudio">R and RStudio</a>
 - <a href="#sqlitestudio" id="toc-sqlitestudio">SQLiteStudio</a>
+- <a href="#practical-test" id="toc-practical-test">Practical test</a>
 
 ## Software requirements beforehand
 
@@ -41,3 +42,11 @@ ReadMe
 
   4.  Enter SQL statement in Query window (step 2), and click run button
       to see the output (Item 3).
+
+## Practical test
+
+- You will receive a practical test email from us at the selected
+  timeslot. Unzip the attachment.
+
+- Start with the document `00_Assessment Test.docx`. This file contains
+  all the instructions.
