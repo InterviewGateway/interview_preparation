@@ -19,4 +19,5 @@ output:
 
 ## SQLiteStudio
 - Install SQLiteStudio: https://sqlitestudio.pl/
+- Download a sample database here for testing: 
 
