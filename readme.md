@@ -1,14 +1,14 @@
-ReadMe
+Content
 ================
 
-- <a href="#software-requirements-beforehand"
-  id="toc-software-requirements-beforehand">Software requirements
-  beforehand</a>
+- <a href="#software-requirements-on-your-computer"
+  id="toc-software-requirements-on-your-computer">Software requirements on
+  your computer</a>
 - <a href="#r-and-rstudio" id="toc-r-and-rstudio">R and RStudio</a>
 - <a href="#sqlitestudio" id="toc-sqlitestudio">SQLiteStudio</a>
 - <a href="#practical-test" id="toc-practical-test">Practical test</a>
 
-## Software requirements beforehand
+## Software requirements on your computer
 
 - R
 - RStudio
@@ -21,7 +21,8 @@ ReadMe
 - Install R from here: <https://cran.r-project.org/mirrors.html>
 - Install RStudio from here:
   <https://posit.co/download/rstudio-desktop/>
-- Install these packages: tidyverse, lubridate
+- Install these packages: tidyverse, lubridate, and any other
+  analysis-related packages
 
 ## SQLiteStudio
 
@@ -45,8 +46,14 @@ ReadMe
 
 ## Practical test
 
-- You will receive a practical test email from us at the selected
-  timeslot. Unzip the attachment.
+- You will receive a practical test email from us at your selected time
+  slot. Unzip the attachment.
 
 - Start with the document `00_Assessment Test.docx`. This file contains
   all the instructions.
+
+- You can choose to take the test in our non-office hours (weekend or
+  stat holiday), but we are out of the office at that time, so we could
+  only respond to your email in the next business day. If you don’t
+  receive the test during the weekend, please contact HR and we will
+  re-arrange it accordingly.

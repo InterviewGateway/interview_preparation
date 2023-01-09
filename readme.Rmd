@@ -41,5 +41,3 @@ output:
 -   Start with the document `00_Assessment Test.docx`. This file contains all the instructions.
 
 -   You can choose to take the test in our non-office hours (weekend or stat holiday), but we are out of the office at that time, so we could only respond to your email in the next business day. If you don't receive the test during the weekend, please contact HR and we will re-arrange it accordingly.
-
-
