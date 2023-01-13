@@ -10,6 +10,8 @@ Content
 
 ## Software requirements on your computer
 
+Please install and familiarize with the software below.
+
 - R
 - RStudio
 - SQLiteStudio
@@ -43,17 +45,23 @@ Content
 
   4.  Enter SQL statement in Query window (step 2), and click run button
       to see the output (Item 3).
+- In the real test, we will provide another database to test your
+  understanding in SQL statement.
 
 ## Practical test
 
 - You will receive a practical test email from us at your selected time
-  slot. Unzip the attachment.
+  slot.
 
-- Start with the document `00_Assessment Test.docx`. This file contains
-  all the instructions.
+- Unzip the attachment. Start with the document
+  `00_Assessment Test.docx`. This file contains all the instructions.
+
+- Email back to us within 2 hours, with all your work including R and
+  SQL scripts.
 
 - You can choose to take the test in our non-office hours (weekend or
   stat holiday), but we are out of the office at that time, so we could
   only respond to your email in the next business day. If you don’t
-  receive the test during the weekend, please contact HR and we will
-  re-arrange it accordingly.
+  receive the test during the weekend, please contact HR Team
+  (jgregory@gatewaycasinos.com) and we may be able to re-arrange it
+  accordingly.
