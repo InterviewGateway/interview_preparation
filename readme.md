@@ -25,6 +25,8 @@ Please install and familiarize with the software below.
   <https://posit.co/download/rstudio-desktop/>
 - Install these packages: tidyverse, lubridate, and any other
   analysis-related packages
+- **You can read Chapter 1 - 21 from [R for Data
+  Science](https://r4ds.had.co.nz/index.html) to prepare for the test.**
 
 ## SQLiteStudio
 
@@ -47,6 +49,9 @@ Please install and familiarize with the software below.
       to see the output (Item 3).
 - In the real test, we will provide another database to test your
   understanding in SQL statement.
+- **You can read SQL Tutorial section (not SQL Database and References)
+  from [W3Schools](https://www.w3schools.com/sql/default.asp) to prepare
+  for the test.**
 
 ## Practical test
 
