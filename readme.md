@@ -6,7 +6,8 @@ Content
   your computer</a>
 - <a href="#r-and-rstudio" id="toc-r-and-rstudio">R and RStudio</a>
 - <a href="#sqlitestudio" id="toc-sqlitestudio">SQLiteStudio</a>
-- <a href="#practical-test" id="toc-practical-test">Practical test</a>
+- <a href="#practical-test-tips" id="toc-practical-test-tips">Practical
+  test tips</a>
 
 ## Software requirements on your computer
 
@@ -23,7 +24,7 @@ Please install and familiarize with the software below.
 - Install R from here: <https://cran.r-project.org/mirrors.html>
 - Install RStudio from here:
   <https://posit.co/download/rstudio-desktop/>
-- Install these packages: tidyverse, lubridate, and any other
+- Install these packages: tidyverse, lubridate, rmarkdown and any other
   analysis-related packages
 - **You can read Chapter 1 - 21 from [R for Data
   Science](https://r4ds.had.co.nz/index.html) to prepare for the test.**
@@ -53,20 +54,26 @@ Please install and familiarize with the software below.
   from [W3Schools](https://www.w3schools.com/sql/default.asp) to prepare
   for the test.**
 
-## Practical test
+## Practical test tips
 
-- You will receive a practical test email from us at your selected time
-  slot.
-
-- Unzip the attachment. Start with the document
+- **You will receive a practical test email from us at your selected
+  time slot.** Unzip the attachment. Start with the document
   `00_Assessment Test.docx`. This file contains all the instructions.
 
-- Email back to us within 2 hours, with all your work including R and
-  SQL scripts.
+- **Keep an eye on the time - it’ll fly by.** In the instruction
+  document, we provided the distribution of marks for each section, so
+  that you can keep track of time spent in each section. Email back to
+  us within 2 hours, with all your work including R and SQL scripts.
 
-- You can choose to take the test in our non-office hours (weekend or
-  stat holiday), but we are out of the office at that time, so we could
-  only respond to your email in the next business day. If you don’t
-  receive the test during the weekend, please contact HR Team
+- **Do not worry that you may not get the right answer.** It’s more
+  important to show your logical thinking through the working steps. For
+  example, if 10 marks are assigned to a question, the steps themselves
+  may get you 9 marks, and the right answer alone may just earn you 1
+  mark.
+
+- You can choose to **take the test in our non-office hours** (weekend
+  or stat holiday), but we are out of the office at that time, so we
+  could only respond to your email in the next business day. If you
+  don’t receive the test during the weekend, please contact HR Team
   (jgregory@gatewaycasinos.com) and we may be able to re-arrange it
   accordingly.
