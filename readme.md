@@ -10,7 +10,8 @@ Content
   id="toc-r-and-rstudio-installation">R and RStudio (installation)</a>
 - <a href="#sqlitestudio-installation"
   id="toc-sqlitestudio-installation">SQLiteStudio (installation)</a>
-- <a href="#practical-test" id="toc-practical-test">Practical test</a>
+- <a href="#practical-test-tips" id="toc-practical-test-tips">Practical
+  test tips</a>
 
 ## Software requirements on your computer
 
@@ -63,20 +64,26 @@ reference.
 - In the real test, we will provide another database to test your
   understanding in SQL statement.
 
-## Practical test
+## Practical test tips
 
-- You will receive a practical test email from us at your selected time
-  slot.
-
-- Unzip the attachment. Start with the document
+- **You will receive a practical test email from us at your selected
+  time slot.** Unzip the attachment. Start with the document
   `00_Assessment Test.docx`. This file contains all the instructions.
 
-- Email back to us within 2 hours, with all your work including R and
-  SQL scripts.
+- **Keep an eye on the time - it’ll fly by.** In the instruction
+  document, we provided the distribution of marks for each section, so
+  that you can keep track of time spent in each section. Email back to
+  us within 2 hours, with all your work including R and SQL scripts.
 
-- You can choose to take the test in our non-office hours (weekend or
-  stat holiday), but we are out of the office at that time, so we could
-  only respond to your email in the next business day. If you don’t
-  receive the test during the weekend, please contact HR Team
+- **Do not worry that you may not get the right answer.** It’s more
+  important to show your logical thinking through the working steps. For
+  example, if 10 marks are assigned to a question, the steps themselves
+  may get you 9 marks, and the right answer alone may just earn you 1
+  mark.
+
+- You can choose to **take the test in our non-office hours** (weekend
+  or stat holiday), but we are out of the office at that time, so we
+  could only respond to your email in the next business day. If you
+  don’t receive the test during the weekend, please contact HR Team
   (jgregory@gatewaycasinos.com) and we may be able to re-arrange it
   accordingly.
