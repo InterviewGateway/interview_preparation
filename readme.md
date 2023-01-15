@@ -4,8 +4,12 @@ Content
 - <a href="#software-requirements-on-your-computer"
   id="toc-software-requirements-on-your-computer">Software requirements on
   your computer</a>
-- <a href="#r-and-rstudio" id="toc-r-and-rstudio">R and RStudio</a>
-- <a href="#sqlitestudio" id="toc-sqlitestudio">SQLiteStudio</a>
+- <a href="#reference-materials" id="toc-reference-materials">Reference
+  Materials</a>
+- <a href="#r-and-rstudio-installation"
+  id="toc-r-and-rstudio-installation">R and RStudio (installation)</a>
+- <a href="#sqlitestudio-installation"
+  id="toc-sqlitestudio-installation">SQLiteStudio (installation)</a>
 - <a href="#practical-test" id="toc-practical-test">Practical test</a>
 
 ## Software requirements on your computer
@@ -18,17 +22,26 @@ Please install and familiarize with the software below.
 - Excel
 - Word
 
-## R and RStudio
+## Reference Materials
+
+The concept covered in this test can be found in the following
+reference.
+
+| Skills | Reference                                               | Details                                                     |
+|--------|---------------------------------------------------------|-------------------------------------------------------------|
+| R      | [R for Data Science](https://r4ds.had.co.nz/index.html) | Chapter 1 - 21 only                                         |
+| SQL    | [W3Schools](https://www.w3schools.com/sql/default.asp)  | SQL Tutorial section only (not SQL Database and References) |
+| Excel  | [W3Schools](https://www.w3schools.com/excel/index.php)  | All                                                         |
+
+## R and RStudio (installation)
 
 - Install R from here: <https://cran.r-project.org/mirrors.html>
 - Install RStudio from here:
   <https://posit.co/download/rstudio-desktop/>
 - Install these packages: tidyverse, lubridate, and any other
-  analysis-related packages
-- **You can read Chapter 1 - 21 from [R for Data
-  Science](https://r4ds.had.co.nz/index.html) to prepare for the test.**
+  analysis-related packages.
 
-## SQLiteStudio
+## SQLiteStudio (installation)
 
 - Install SQLiteStudio: <https://sqlitestudio.pl/>
 - Download a sample database for testing here:
@@ -49,9 +62,6 @@ Please install and familiarize with the software below.
       to see the output (Item 3).
 - In the real test, we will provide another database to test your
   understanding in SQL statement.
-- **You can read SQL Tutorial section (not SQL Database and References)
-  from [W3Schools](https://www.w3schools.com/sql/default.asp) to prepare
-  for the test.**
 
 ## Practical test
 
