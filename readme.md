@@ -1,17 +1,12 @@
 Content
 ================
 
-- <a href="#software-requirements-on-your-computer"
-  id="toc-software-requirements-on-your-computer">Software requirements on
-  your computer</a>
-- <a href="#reference-materials" id="toc-reference-materials">Reference
-  Materials</a>
-- <a href="#r-and-rstudio-installation"
-  id="toc-r-and-rstudio-installation">R and RStudio (installation)</a>
-- <a href="#sqlitestudio-installation"
-  id="toc-sqlitestudio-installation">SQLiteStudio (installation)</a>
-- <a href="#practical-test-tips" id="toc-practical-test-tips">Practical
-  test tips</a>
+- [Software requirements on your
+  computer](#software-requirements-on-your-computer)
+- [Reference Materials](#reference-materials)
+- [R and RStudio (installation)](#r-and-rstudio-installation)
+- [SQLiteStudio (installation)](#sqlitestudio-installation)
+- [Practical test tips](#practical-test-tips)
 
 ## Software requirements on your computer
 
@@ -30,7 +25,7 @@ reference.
 
 | Skills | Reference                                               | Details                                                     |
 |--------|---------------------------------------------------------|-------------------------------------------------------------|
-| R      | [R for Data Science](https://r4ds.had.co.nz/index.html) | Chapter 1 - 21 only                                         |
+| R      | [R for Data Science](https://r4ds.had.co.nz/index.html) |                                                             |
 | SQL    | [W3Schools](https://www.w3schools.com/sql/default.asp)  | SQL Tutorial section only (not SQL Database and References) |
 | Excel  | [W3Schools](https://www.w3schools.com/excel/index.php)  | All                                                         |
 
@@ -39,8 +34,8 @@ reference.
 - Install R from here: <https://cran.r-project.org/mirrors.html>
 - Install RStudio from here:
   <https://posit.co/download/rstudio-desktop/>
-- Install these packages: tidyverse, lubridate, and any other
-  analysis-related packages.
+- Install these packages: tidyverse, and any other analysis-related
+  packages.
 
 ## SQLiteStudio (installation)
 
@@ -85,5 +80,5 @@ reference.
   or stat holiday), but we are out of the office at that time, so we
   could only respond to your email in the next business day. If you
   don’t receive the test during the weekend, please contact HR Team
-  (jgregory@gatewaycasinos.com) and we may be able to re-arrange it
-  accordingly.
+  (<Jeremy.Gregory@gatewaycasinos.ca>) and we may be able to re-arrange
+  it accordingly.
