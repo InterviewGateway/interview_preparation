@@ -68,7 +68,8 @@ reference.
 - **Keep an eye on the time - it’ll fly by.** In the instruction
   document, we provided the distribution of marks for each section, so
   that you can keep track of time spent in each section. Email back to
-  us within 2 hours, with all your work including R and SQL scripts.
+  us within the time limit, with all your work including R and SQL
+  scripts.
 
 - **Do not worry that you may not get the right answer.** It’s more
   important to show your logical thinking through the working steps. For
