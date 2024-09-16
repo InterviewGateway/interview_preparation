@@ -23,11 +23,11 @@ Please install and familiarize with the software below.
 The concept covered in this test can be found in the following
 reference.
 
-| Skills | Reference                                               | Details                                                     |
-|--------|---------------------------------------------------------|-------------------------------------------------------------|
-| R      | [R for Data Science](https://r4ds.had.co.nz/index.html) |                                                             |
-| SQL    | [W3Schools](https://www.w3schools.com/sql/default.asp)  | SQL Tutorial section only (not SQL Database and References) |
-| Excel  | [W3Schools](https://www.w3schools.com/excel/index.php)  | All                                                         |
+| Skills | Reference                                              | Details                                                     |
+|--------|--------------------------------------------------------|-------------------------------------------------------------|
+| R      | [R for Data Science](https://r4ds.hadley.nz/)          | We use everything mentioned in this book at work.           |
+| SQL    | [W3Schools](https://www.w3schools.com/sql/default.asp) | SQL Tutorial section only (not SQL Database and References) |
+| Excel  | [W3Schools](https://www.w3schools.com/excel/index.php) | All                                                         |
 
 ## R and RStudio (installation)
 
@@ -68,8 +68,9 @@ reference.
 - **Keep an eye on the time - it’ll fly by.** In the instruction
   document, we provided the distribution of marks for each section, so
   that you can keep track of time spent in each section. Email back to
-  us within the time limit, with all your work including R and SQL
-  scripts.
+  us within the time limit (160 minutes for data analyst role, 180
+  minutes for data scientist role), with all your work including R and
+  SQL scripts.
 
 - **Do not worry that you may not get the right answer.** It’s more
   important to show your logical thinking through the working steps. For
