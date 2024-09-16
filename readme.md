@@ -68,7 +68,7 @@ reference.
 - **Keep an eye on the time - it’ll fly by.** In the instruction
   document, we provided the distribution of marks for each section, so
   that you can keep track of time spent in each section. Email back to
-  us within the time limit (160 minutes for data analyst role, 180
+  us within the time limit (150 minutes for data analyst role, 180
   minutes for data scientist role), with all your work including R and
   SQL scripts.
 
