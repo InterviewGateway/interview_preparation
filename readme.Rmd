@@ -20,7 +20,7 @@ Please install and familiarize with the software below.
 The concept covered in this test can be found in the following reference.
 
 | Skills | Reference                                              | Details                                                     |
-|-----------------|---------------------------|----------------------------|
+|------------------|---------------------------|----------------------------|
 | R      | [R for Data Science](https://r4ds.hadley.nz/)          | We use everything mentioned in this book at work.           |
 | SQL    | [W3Schools](https://www.w3schools.com/sql/default.asp) | SQL Tutorial section only (not SQL Database and References) |
 | Excel  | [W3Schools](https://www.w3schools.com/excel/index.php) | All                                                         |
@@ -56,3 +56,11 @@ The concept covered in this test can be found in the following reference.
 -   **Do not worry that you may not get the right answer.** It's more important to show your logical thinking through the working steps. For example, if 10 marks are assigned to a question, the steps themselves may get you 9 marks, and the right answer alone may just earn you 1 mark.
 
 -   You can choose to **take the test in our non-office hours** (weekend or stat holiday), but we are out of the office at that time, so we could only respond to your email in the next business day. If you don't receive the test during the weekend, please contact HR Team ([Jeremy.Gregory\@gatewaycasinos.ca](mailto:Jeremy.Gregory@gatewaycasinos.ca){.email}) and we may be able to re-arrange it accordingly.
+
+## FAQ
+
+-   **Can a candidate use programming languages / tool not listed in the guidelines?**
+    You must use Excel, R and SQL for the sections dedicated to those skills. However, you can use other programming languages in the other sections.
+
+-   **Can a candidate use the Internet during the test?**
+    Yes, but you can't copy directly. If the plagiarism checker finds copied content in your work, you may be disqualified.

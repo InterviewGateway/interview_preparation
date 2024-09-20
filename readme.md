@@ -1,12 +1,18 @@
 Content
 ================
 
-- [Software requirements on your
-  computer](#software-requirements-on-your-computer)
-- [Reference Materials](#reference-materials)
-- [R and RStudio (installation)](#r-and-rstudio-installation)
-- [SQLiteStudio (installation)](#sqlitestudio-installation)
-- [Practical test tips](#practical-test-tips)
+- <a href="#software-requirements-on-your-computer"
+  id="toc-software-requirements-on-your-computer">Software requirements on
+  your computer</a>
+- <a href="#reference-materials" id="toc-reference-materials">Reference
+  Materials</a>
+- <a href="#r-and-rstudio-installation"
+  id="toc-r-and-rstudio-installation">R and RStudio (installation)</a>
+- <a href="#sqlitestudio-installation"
+  id="toc-sqlitestudio-installation">SQLiteStudio (installation)</a>
+- <a href="#practical-test-tips" id="toc-practical-test-tips">Practical
+  test tips</a>
+- <a href="#faq" id="toc-faq">FAQ</a>
 
 ## Software requirements on your computer
 
@@ -84,3 +90,14 @@ reference.
   don’t receive the test during the weekend, please contact HR Team
   (<Jeremy.Gregory@gatewaycasinos.ca>) and we may be able to re-arrange
   it accordingly.
+
+## FAQ
+
+- **Can a candidate use programming languages / tool not listed in the
+  guidelines?** You must use Excel, R and SQL for the sections dedicated
+  to those skills. However, you can use other programming languages in
+  the other sections.
+
+- **Can a candidate use the Internet during the test?** Yes, but you
+  can’t copy directly. If the plagiarism checker finds copied content in
+  your work, you may be disqualified.
