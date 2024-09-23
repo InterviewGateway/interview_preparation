@@ -1,18 +1,13 @@
 Content
 ================
 
-- <a href="#software-requirements-on-your-computer"
-  id="toc-software-requirements-on-your-computer">Software requirements on
-  your computer</a>
-- <a href="#reference-materials" id="toc-reference-materials">Reference
-  Materials</a>
-- <a href="#r-and-rstudio-installation"
-  id="toc-r-and-rstudio-installation">R and RStudio (installation)</a>
-- <a href="#sqlitestudio-installation"
-  id="toc-sqlitestudio-installation">SQLiteStudio (installation)</a>
-- <a href="#practical-test-tips" id="toc-practical-test-tips">Practical
-  test tips</a>
-- <a href="#faq" id="toc-faq">FAQ</a>
+- [Software requirements on your
+  computer](#software-requirements-on-your-computer)
+- [Reference Materials](#reference-materials)
+- [R and RStudio (installation)](#r-and-rstudio-installation)
+- [SQLiteStudio (installation)](#sqlitestudio-installation)
+- [Practical test tips](#practical-test-tips)
+- [FAQ](#faq)
 
 ## Software requirements on your computer
 
@@ -101,3 +96,10 @@ reference.
 - **Can a candidate use the Internet during the test?** Yes, but you
   can’t copy directly. If the plagiarism checker finds copied content in
   your work, you may be disqualified.
+
+- **Can I reschedule the test?** Yes, please contact HR Team
+  (<Jeremy.Gregory@gatewaycasinos.ca>) at least two business days before
+  your scheduled test. We may not be able to accommodate last-minute
+  changes, especially during non-office hours. Once the test is sent, we
+  won’t reschedule it. Please also do NOT resubmit your response for the
+  test invitation.

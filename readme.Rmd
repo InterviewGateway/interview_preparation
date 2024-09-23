@@ -20,7 +20,7 @@ Please install and familiarize with the software below.
 The concept covered in this test can be found in the following reference.
 
 | Skills | Reference                                              | Details                                                     |
-|------------------|---------------------------|----------------------------|
+|------------------|--------------------------|---------------------------|
 | R      | [R for Data Science](https://r4ds.hadley.nz/)          | We use everything mentioned in this book at work.           |
 | SQL    | [W3Schools](https://www.w3schools.com/sql/default.asp) | SQL Tutorial section only (not SQL Database and References) |
 | Excel  | [W3Schools](https://www.w3schools.com/excel/index.php) | All                                                         |
@@ -59,8 +59,8 @@ The concept covered in this test can be found in the following reference.
 
 ## FAQ
 
--   **Can a candidate use programming languages / tool not listed in the guidelines?**
-    You must use Excel, R and SQL for the sections dedicated to those skills. However, you can use other programming languages in the other sections.
+-   **Can a candidate use programming languages / tool not listed in the guidelines?** You must use Excel, R and SQL for the sections dedicated to those skills. However, you can use other programming languages in the other sections.
 
--   **Can a candidate use the Internet during the test?**
-    Yes, but you can't copy directly. If the plagiarism checker finds copied content in your work, you may be disqualified.
+-   **Can a candidate use the Internet during the test?** Yes, but you can't copy directly. If the plagiarism checker finds copied content in your work, you may be disqualified.
+
+-   **Can I reschedule the test?** Yes, please contact HR Team ([Jeremy.Gregory\@gatewaycasinos.ca](mailto:Jeremy.Gregory@gatewaycasinos.ca){.email}) at least two business days before your scheduled test. We may not be able to accommodate last-minute changes, especially during non-office hours. Once the test is sent, we won't reschedule it. Please also do NOT resubmit your response for the test invitation.
