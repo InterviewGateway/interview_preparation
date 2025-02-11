@@ -1,6 +1,7 @@
-Content
+Practical Test
 ================
 
+- [Practical Test](#practical-test)
 - [Software requirements on your
   computer](#software-requirements-on-your-computer)
 - [Reference Materials](#reference-materials)
@@ -8,6 +9,24 @@ Content
 - [SQLiteStudio (installation)](#sqlitestudio-installation)
 - [Practical test tips](#practical-test-tips)
 - [FAQ](#faq)
+
+## Practical Test
+
+- Reserve your timeslot for the practical test on the Booking page.
+
+- The day before the test, you will get a video call link by email.
+  Please check your setup and join 10 minutes early to avoid any
+  technical issues, using the name you applied with, and turn on your
+  camera. You won’t be able to join after the test starts.
+
+- You will receive the test materials 5 minutes before the test begins.
+
+- During the call, you will need to share your screen, and several
+  examiners will be present. Using AI tools will lead to
+  disqualification.
+
+- After the test, email your completed work back by replying to the
+  original email with test materials.
 
 ## Software requirements on your computer
 
@@ -24,11 +43,11 @@ Please install and familiarize with the software below.
 The concept covered in this test can be found in the following
 reference.
 
-| Skills | Reference                                              | Details                                                     |
-|--------|--------------------------------------------------------|-------------------------------------------------------------|
-| R      | [R for Data Science](https://r4ds.hadley.nz/)          | We use everything mentioned in this book at work.           |
-| SQL    | [W3Schools](https://www.w3schools.com/sql/default.asp) | SQL Tutorial section only (not SQL Database and References) |
-| Excel  | [W3Schools](https://www.w3schools.com/excel/index.php) | All                                                         |
+| Skills | Reference | Details |
+|----|----|----|
+| R | [R for Data Science](https://r4ds.hadley.nz/) | We use everything mentioned in this book at work. |
+| SQL | [W3Schools](https://www.w3schools.com/sql/default.asp) | SQL Tutorial section only (not SQL Database and References) |
+| Excel | [W3Schools](https://www.w3schools.com/excel/index.php) | All |
 
 ## R and RStudio (installation)
 
@@ -69,9 +88,8 @@ reference.
 - **Keep an eye on the time - it’ll fly by.** In the instruction
   document, we provided the distribution of marks for each section, so
   that you can keep track of time spent in each section. Email back to
-  us within the time limit (150 minutes for data analyst role, 180
-  minutes for data scientist role), with all your work including R and
-  SQL scripts.
+  us within the time limit, with all your work including R and SQL
+  scripts.
 
 - **Do not worry that you may not get the right answer.** It’s more
   important to show your logical thinking through the working steps. For
@@ -79,27 +97,20 @@ reference.
   may get you 9 marks, and the right answer alone may just earn you 1
   mark.
 
-- You can choose to **take the test in our non-office hours** (weekend
-  or stat holiday), but we are out of the office at that time, so we
-  could only respond to your email in the next business day. If you
-  don’t receive the test during the weekend, please contact HR Team
-  (<Jeremy.Gregory@gatewaycasinos.ca>) and we may be able to re-arrange
-  it accordingly.
+- **Do not use AI tool like ChatGPT.**
 
 ## FAQ
 
 - **Can a candidate use programming languages / tool not listed in the
-  guidelines?** You must use Excel, R and SQL for the sections dedicated
-  to those skills. However, you can use other programming languages in
-  the other sections.
+  guidelines?** You must use R and SQL for the sections dedicated to
+  those skills. However, you can use other programming languages in the
+  other sections.
 
 - **Can a candidate use the Internet during the test?** Yes, but you
-  can’t copy directly. If the plagiarism checker finds copied content in
-  your work, you may be disqualified.
+  can’t copy directly, and you are not allowed to use any AI tools.
 
 - **Can I reschedule the test?** Yes, please contact HR Team
   (<Jeremy.Gregory@gatewaycasinos.ca>) at least two business days before
   your scheduled test. We may not be able to accommodate last-minute
   changes, especially during non-office hours. Once the test is sent, we
-  won’t reschedule it. Please also do NOT resubmit your response for the
-  test invitation.
+  won’t reschedule it.
