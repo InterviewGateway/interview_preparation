@@ -11,7 +11,7 @@ output:
 
 -   The day before the test, you will get a video call link by email. Please check your setup and join 10 minutes early to avoid any technical issues, using the name you applied with, and turn on your camera. You won't be able to join after the test starts.
 
--   You will receive the test materials inside the video call.
+-   You will receive the test materials inside the video call. Unzip it and the word file contains the instructions.
 
 -   During the call, you will need to share your screen, and several examiners will be present. Using AI tools will lead to disqualification.
 
@@ -60,8 +60,6 @@ The concept covered in this test can be found in the following reference.
 -   In the real test, we will provide another database to test your understanding in SQL statement.
 
 ## Practical test tips
-
--   **You will receive a practical test email from us at your selected time slot.** Unzip the attachment. Start with the document `00_Assessment Test.docx`. This file contains all the instructions.
 
 -   **Keep an eye on the time - it'll fly by.** In the instruction document, we provided the distribution of marks for each section, so that you can keep track of time spent in each section. Email back to us within the time limit, with all your work including R and SQL scripts.
 

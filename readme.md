@@ -19,7 +19,8 @@ Practical Test
   technical issues, using the name you applied with, and turn on your
   camera. You won’t be able to join after the test starts.
 
-- You will receive the test materials inside the video call.
+- You will receive the test materials inside the video call. Unzip it
+  and the word file contains the instructions.
 
 - During the call, you will need to share your screen, and several
   examiners will be present. Using AI tools will lead to
@@ -80,10 +81,6 @@ reference.
   understanding in SQL statement.
 
 ## Practical test tips
-
-- **You will receive a practical test email from us at your selected
-  time slot.** Unzip the attachment. Start with the document
-  `00_Assessment Test.docx`. This file contains all the instructions.
 
 - **Keep an eye on the time - it’ll fly by.** In the instruction
   document, we provided the distribution of marks for each section, so
