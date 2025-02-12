@@ -19,7 +19,7 @@ Practical Test
   technical issues, using the name you applied with, and turn on your
   camera. You won’t be able to join after the test starts.
 
-- You will receive the test materials 5 minutes before the test begins.
+- You will receive the test materials inside the video call.
 
 - During the call, you will need to share your screen, and several
   examiners will be present. Using AI tools will lead to
