@@ -7,7 +7,7 @@ output:
 
 ## Practical Test
 
--   Reserve your timeslot for the practical test on the Booking page.
+-   HR will send you email, please reply to reserve the practical test timesslot.
 
 -   The day before the test, you will get a video call link by email. Please check your setup and join 10 minutes early to avoid any technical issues, using the name you applied with, and turn on your camera. You won't be able to join after the test starts.
 
@@ -15,7 +15,7 @@ output:
 
 -   During the call, you will need to share your screen, and several examiners will be present. Using AI tools will lead to disqualification.
 
--   After the test, email your completed work back by replying to the original email with test materials.
+-   At the end of the test, email your completed work back immediately to [Jeremy.Gregory\@gatewaycasinos.ca](mailto:Jeremy.Gregory@gatewaycasinos.ca){.email}.
 
 ## Software requirements on your computer
 
@@ -32,7 +32,7 @@ Please install and familiarize with the software below.
 The concept covered in this test can be found in the following reference.
 
 | Skills | Reference | Details |
-|-------------------|--------------------------|---------------------------|
+|------------------------|------------------------|------------------------|
 | R | [R for Data Science](https://r4ds.hadley.nz/) | We use everything mentioned in this book at work. |
 | SQL | [W3Schools](https://www.w3schools.com/sql/default.asp) | SQL Tutorial section only (not SQL Database and References) |
 | Excel | [W3Schools](https://www.w3schools.com/excel/index.php) | All |

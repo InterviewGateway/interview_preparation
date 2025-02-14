@@ -12,7 +12,8 @@ Practical Test
 
 ## Practical Test
 
-- Reserve your timeslot for the practical test on the Booking page.
+- HR will send you email, please reply to reserve the practical test
+  timesslot.
 
 - The day before the test, you will get a video call link by email.
   Please check your setup and join 10 minutes early to avoid any
@@ -26,8 +27,8 @@ Practical Test
   examiners will be present. Using AI tools will lead to
   disqualification.
 
-- After the test, email your completed work back by replying to the
-  original email with test materials.
+- At the end of the test, email your completed work back immediately to
+  <Jeremy.Gregory@gatewaycasinos.ca>.
 
 ## Software requirements on your computer
 
