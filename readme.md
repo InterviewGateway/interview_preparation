@@ -1,7 +1,7 @@
 Practical Test
 ================
 
-- [Practical Test](#practical-test)
+- [Process](#process)
 - [Software requirements on your
   computer](#software-requirements-on-your-computer)
 - [Reference Materials](#reference-materials)
@@ -10,25 +10,24 @@ Practical Test
 - [Practical test tips](#practical-test-tips)
 - [FAQ](#faq)
 
-## Practical Test
+## Process
 
-- HR will send you email, please reply to reserve the practical test
-  timesslot.
+- HR will email you to confirm your practical test timeslot.
 
-- The day before the test, you will get a video call link by email.
-  Please check your setup and join 10 minutes early to avoid any
-  technical issues, using the name you applied with, and turn on your
-  camera. You won’t be able to join after the test starts.
+- Before the test, you will get a video call link by email. Please check
+  your setup and join 10 minutes using the name you applied with, and
+  with your camera on. You won’t be able to take the test after it
+  starts.
 
-- You will receive the test materials inside the video call. Unzip it
-  and the word file contains the instructions.
+- The test materials will be shared in the call. Unzip the file to
+  access the instructions in the Word document.
 
-- During the call, you will need to share your screen, and several
-  examiners will be present. Using AI tools will lead to
-  disqualification.
+- During the call, you will need to share your screen while several
+  examiners observe. Using AI tools will result in disqualification.
 
 - At the end of the test, email your completed work back immediately to
-  <Jeremy.Gregory@gatewaycasinos.ca>.
+  <Jeremy.Gregory@gatewaycasinos.ca>. Top-scoring candidates will be
+  contacted for an interview.
 
 ## Software requirements on your computer
 
@@ -110,5 +109,4 @@ reference.
 - **Can I reschedule the test?** Yes, please contact HR Team
   (<Jeremy.Gregory@gatewaycasinos.ca>) at least two business days before
   your scheduled test. We may not be able to accommodate last-minute
-  changes, especially during non-office hours. Once the test is sent, we
-  won’t reschedule it.
+  changes, especially during non-office hours.
